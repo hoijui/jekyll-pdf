@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-pdf"
-  spec.version       = "0.1.7"
+  spec.version       = "0.2.0.rc1"
   spec.summary       = "A PDF generator for Jekyll"
   spec.description   = "A Jekyll plugin for generating PDFs from your pages, posts & documents."
 
